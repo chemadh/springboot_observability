@@ -4,7 +4,7 @@ Test resources replicating the example for spring boot observability defined in:
 
 https://github.com/marcingrzejszczak/observability-boot-blog-post/
 
-Loki version: 3.2.1
-Prometheus version: 2.55.1
-Tempo version: 2.6.1
-OS: Debian 12
+- Loki version: 3.2.1
+- Prometheus version: 2.55.1
+- Tempo version: 2.6.1
+- OS: Debian 12
